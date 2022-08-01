@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+}
+.words{
+  min-height: 100%;
+}
+.btns button:hover{
+  background-color: rgba(255, 166, 0, 0.843);
+  color: white !important;
+}
